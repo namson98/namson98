@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hello there 👋, I am Junior Data Engineer at [@Hiflylabs](https://www.hiflylabs.com) and a graduate student in Business Analytics at [@CEU](https://www.ceu.edu). Mostly, I work on datawarehouse projects and researches revolving around Data Science.
+Hello there 👋, I am a Junior Analytics Engineer at [@Hiflylabs](https://www.hiflylabs.com) and a graduate student in Business Analytics at [@CEU](https://www.ceu.edu). Mostly, I work on modern datawarehouse projects (dbt, Snowflake, Looker, etc.) and research projects revolving around Data Science.
 -------------------
 
 ## Contact
