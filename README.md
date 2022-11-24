@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About 👋
-I am an Analytics Engineer at [@Hiflylabs](https://www.hiflylabs.com) with a beanie who creates scalable pipelines and assists businesses in adopting modern data stack technologies in a cost-effective manner.
+I'm an Analytics Engineer at [@Hiflylabs](https://www.hiflylabs.com) with a beanie who creates scalable pipelines and assists businesses in adopting modern data stack technologies in a cost-effective manner.
  
 -------------------
 
